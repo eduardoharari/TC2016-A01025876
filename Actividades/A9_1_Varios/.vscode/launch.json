@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cliente",
+            "request": "launch",
+            "mainClass": "Cliente"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Efficiency",
+            "request": "launch",
+            "mainClass": "Efficiency"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercise8",
+            "request": "launch",
+            "mainClass": "Exercise8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercise9",
+            "request": "launch",
+            "mainClass": "Exercise9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Husband",
+            "request": "launch",
+            "mainClass": "Husband"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestFraction",
+            "request": "launch",
+            "mainClass": "TestFraction"
+        }
+    ]
+}

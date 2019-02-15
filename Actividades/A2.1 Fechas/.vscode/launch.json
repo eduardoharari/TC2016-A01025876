@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VehicleTest",
+            "request": "launch",
+            "mainClass": "VehicleTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaDog",
+            "request": "launch",
+            "mainClass": "PruebaDog"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaFraccion",
+            "request": "launch",
+            "mainClass": "PruebaFraccion"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaFracciones",
+            "request": "launch",
+            "mainClass": "PruebaFracciones"
+        }
+    ]
+}
